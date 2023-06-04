@@ -1,4 +1,4 @@
 
-Модели <a href="blob/master/catalog/models.py">тут</a> и <a href="blob/master/manufacturer/models.py">тут</a>
+Модели <a href="catalog/models.py">тут</a> и <a href="manufacturer/models.py">тут</a>
 
-2 часть <a href="blob/master/manufacturer/views.py">тут</a>
+2 часть <a href="manufacturer/views.py">тут</a>
